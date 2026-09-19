@@ -83,3 +83,26 @@ This project was created to practice and improve JavaScript skills, especially:
 - Creating interactive web applications
 
 ---
+
+## 🔮 Future Improvements
+
+Some possible improvements for this project include:
+
+- ⏱️ Add a timer for each question
+- 🏆 Add different quiz categories
+- 🔀 Randomize questions and answers
+- 📈 Add a percentage score
+- 🔄 Add a "Restart Quiz" button
+- 🏅 Add different result messages based on the score
+- 📚 Add more questions
+- 🌙 Add dark mode
+
+---
+
+## 👨‍💻 Author
+
+Abdul Hannan Zahid
+
+Frontend Developer | BSCS student 
+
+⭐ If you like this project, consider giving the repository a star!
