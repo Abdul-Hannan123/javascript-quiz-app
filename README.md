@@ -51,3 +51,35 @@ After the user completes all questions, the application displays the final score
 
 ---
 
+## 🎮 How It Works
+
+1. The quiz displays a question with multiple answer options.
+2. The user selects one answer.
+3. The selected answer cannot be changed or selected again.
+4. If the answer is correct:
+5. The selected answer becomes green.
+6. The score is increased.
+7. If the answer is incorrect:
+8. The selected answer becomes red.
+9. The correct answer automatically becomes green.
+10. The user clicks the Next button to continue.
+11. After the final question, the quiz displays the user's final score.
+
+---
+
+## 🎯 Purpose of the Project
+
+This project was created to practice and improve JavaScript skills, especially:
+
+- DOM manipulation
+- Event handling
+- Conditional statements
+- Arrays and objects
+- Managing quiz questions
+- Checking user answers
+- Score calculation
+- Dynamic content updates
+- Managing application state
+- Creating interactive web applications
+
+---
