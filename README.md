@@ -1,6 +1,6 @@
 ## 🧠 Quiz App
 
-A simple and interactive Quiz App built with using HTML, CSS, and JavaScript. Users can answer multiple-choice questions, receive instant feedback for each answer, and see their final score when the quiz is completed.
+A simple and interactive Quiz App built using HTML, CSS, and JavaScript. Users can answer multiple-choice questions, receive instant feedback for each answer, and see their final score when the quiz is completed.
 
 ---
 
@@ -94,7 +94,7 @@ Some possible improvements for this project include:
 - 📈 Add a percentage score
 - 🔄 Add a "Restart Quiz" button
 - 🏅 Add different result messages based on the score
-- 📚 Add more question
+- 📚 Add more questions
 - 🌙 Add dark mode
 
 ---
