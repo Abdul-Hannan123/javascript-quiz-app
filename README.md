@@ -94,7 +94,7 @@ Some possible improvements for this project include:
 - 📈 Add a percentage score
 - 🔄 Add a "Restart Quiz" button
 - 🏅 Add different result messages based on the score
-- 📚 Add more questions
+- 📚 Add more question
 - 🌙 Add dark mode
 
 ---
